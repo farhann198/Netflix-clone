@@ -35,7 +35,7 @@ It replicates the look and feel of the original Netflix homepage, focusing on la
 netflix-clone/
 │── index.html
 │── style.css
-│── images/
+│── assets/
 │── README.md
 ```
 
